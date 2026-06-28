@@ -1,6 +1,6 @@
 # VanillaGreenHouse
 
-The R&D department is proud to present the GreenHouse Initiative: a sustainable solution for cultivating local flora. Produce fresh samples of berries, nuts, mycelia and bacon agaric !
+The R&D department is proud to present the GreenHouse Initiative: a sustainable solution for cultivating local flora. Produce fresh samples of berries, nuts, mycelia, bacon agaric, wood and leaves !
 No more running across the planet in search of ingredients for Medicinal Inhaler. Efficiency at its finest.
 
 ## Features
