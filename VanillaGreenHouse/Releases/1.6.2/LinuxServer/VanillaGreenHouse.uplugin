@@ -1,0 +1,34 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.6.2",
+	"FriendlyName": "VanillaGreenHouse",
+	"Description": "Build the GreenHouse to grow Berries, Nuts, Bacon Agarics, and Mycelia",
+	"Category": "Modding",
+	"CreatedBy": "ANT021",
+	"CreatedByURL": "https://anthonychallamel.artstation.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.12.0"
+		}
+	],
+	"SemVersion": "1.6.2",
+	"GameVersion": ">=491125",
+	"LocalizationTargets": [
+		{
+			"Name": "VanillaGreenHouse",
+			"LoadingPolicy": "Always",
+			"ConfigGenerationPolicy": "Never"
+		}
+	],
+	"GameFeature": true
+}
